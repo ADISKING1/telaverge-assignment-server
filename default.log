@@ -1,0 +1,2 @@
+2021.07.30, 06:47:24.0196 UTC -> operation: {sub} requestBody: {"a": 10, "b": 5} returnedValue: 5
+2021.07.30, 06:47:29.0305 UTC -> operation: {mul} requestBody: {"a": 10, "b": 5} returnedValue: 50
